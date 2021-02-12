@@ -1,0 +1,6 @@
+#ifndef _recource_rc
+#define _recource_rc
+
+MAINICON ICON "vvv.ico"
+
+#endif // _recource_rc

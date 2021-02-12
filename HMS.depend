@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1613111518 source:k:\theauxilium\c\hms\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1607877971 source:k:\theauxilium\c\hms\recourses.rc
+
